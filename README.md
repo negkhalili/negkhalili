@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi, I'm Negar Khalili
 
-<!--
-**negkhalili/negkhalili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Currently, I'm a research student at Kyushu University, Japan. I am curious about different computational methods and data analytics in biology. 
+I enjoy enjoy coding a lot and making consious efforts to be better.
+<p align="center"> 
+In my free time, I enjoy drinking tea, doing embroidery, and walking in nature. 
+</p>
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ![Twitter URL](https://img.shields.io/twitter/url?url=https://twitter.com/NegKhalili)
+  [![Gmail Badge](https://img.shields.io/badge/-negarkhalili43@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:negarkhalili43@gmail.com)](mailto:negarkhalili43@gmail.com)
+</div>
+<br>
+
+My personal feed: https://sites.google.com/view/nkhalili/
