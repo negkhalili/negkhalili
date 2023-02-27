@@ -2,7 +2,7 @@
 
 <p align="center">
 Currently, I'm a research student at Kyushu University, Japan. I am curious about different computational methods and data analytics in biology. 
-I enjoy enjoy coding a lot and making consious efforts to be better.
+I enjoy coding a lot and making consious efforts to be better.
 <p align="center"> 
 In my free time, I enjoy drinking tea, doing embroidery, and walking in nature. 
 </p>
