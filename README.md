@@ -1,17 +1,19 @@
-## Hi, I'm Negar Khalili
+# Hi, I'm Negar Khalili
 
 <p align="center">
-Currently, I'm a research student at Kyushu University, Japan. I am curious about different computational methods and data analytics in biology. 
-I enjoy coding a lot and making consious efforts to be better.
-<p align="center"> 
-In my free time, I enjoy drinking tea, doing embroidery, and walking in nature. 
+  I am currently a research student at Kyushu University, Japan. My curiosity lies in exploring computational methods and data analytics in the field of biology. I have a strong passion for coding and continuously strive to improve my skills.
+</p>
+
+<p align="center">
+  In my free time, I find joy in sipping tea, practicing embroidery, and taking leisurely walks in nature.
 </p>
 
 <div align="center">
-
-  ![Twitter URL](https://img.shields.io/twitter/url?url=https://twitter.com/NegKhalili)
-  [![Microsoft Badge](https://img.shields.io/badge/-negarkhalili@hotmail.com-c14438?style=flat-square&logo=Microsoft&logoColor=white&link=mailto:negarkhalili@hotmail.com)](mailto:negarkhalili@hotmail.com)
+  <img src="https://img.shields.io/twitter/url?url=https://twitter.com/NegKhalili" alt="Twitter URL">
+  <a href="mailto:negarkhalili@hotmail.com">
+    <img src="https://img.shields.io/badge/-negarkhalili@hotmail.com-c14438?style=flat-square&logo=Microsoft&logoColor=white" alt="Microsoft Badge">
+  </a>
 </div>
 <br>
 
-My personal feed: https://negkhalili.com
+Check out my personal website: [https://negkhalili.com](https://negkhalili.com)
