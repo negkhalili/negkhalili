@@ -10,8 +10,8 @@ In my free time, I enjoy drinking tea, doing embroidery, and walking in nature.
 <div align="center">
 
   ![Twitter URL](https://img.shields.io/twitter/url?url=https://twitter.com/NegKhalili)
-  [![Gmail Badge](https://img.shields.io/badge/-negarkhalili43@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:negarkhalili43@gmail.com)](mailto:negarkhalili43@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/-negarkhalili43@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:negarkhalili43@gmail.com)](mailto:negarkhalili@hotmail.com)
 </div>
 <br>
 
-My personal feed: https://sites.google.com/view/nkhalili/
+My personal feed: https://negkhalili.com
