@@ -1,7 +1,7 @@
 # Hi, I'm Negar Khalili
 
 <p align="center">
-  I am currently a research student at Kyushu University, Japan. My curiosity lies in exploring computational methods and data analytics in the field of biology. I have a strong passion for coding and continuously strive to improve my skills.
+  I am currently a research student at Kyushu University, Japan. My curiosity lies in exploring computational methods and data analytics in the field of life sciences. I have a strong passion for coding and continuously strive to improve my skills.
 </p>
 <p align="center"> 
   My current research is focused on decision making and human behaviors.
